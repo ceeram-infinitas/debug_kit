@@ -74,8 +74,8 @@ class ToolbarComponent extends Component {
  * @var array
  **/
 	public $javascript = array(
-		'jquery' => '/debug_kit/js/jquery',
-		'libs' => '/debug_kit/js/js_debug_toolbar'
+		//'jquery' => '/debug_kit/js/jquery',
+		//'libs' => '/debug_kit/js/js_debug_toolbar'
 	);
 
 /**
